@@ -38,10 +38,14 @@ export const amenities = [
 ];
 
 export const categories = [
-  { key: 'smoke', label: 'Smoke' },
-  { key: 'electric', label: 'Electric' },
+  { key: 'metal', label: 'Metal' },
   { key: 'wood', label: 'Wood' },
-  { key: 'other', label: 'Other' },
+  { key: 'glass-ceramic', label: 'Glass/Ceramic' },
+  { key: 'composite', label: 'Composite' },
+  { key: 'concrete', label: 'Concrete/Masonry/Plaster' },
+  { key: 'multi-material', label: 'Multi-Material' },
+  { key: 'food-beverage', label: 'Composite' },
+  { key: 'electronics', label: 'Electronics' },
 ];
 
 // Price filter configuration
